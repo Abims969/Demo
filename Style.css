@@ -39,9 +39,9 @@ h1 {
 p {
   text-align: center;
   font-family:'Mrs Saint Delafield', cursive;
+}
 
-
-spacing {
+.spacing {
   font-size: 2em;
   text-align: left;
   font-family: 'Times New Roman', Times, serif;
