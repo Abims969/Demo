@@ -1,0 +1,54 @@
+img {
+    background-position: center;
+  background-repeat: no-repeat;
+    background-size: cover;
+    height: 10%;
+    width: 10%;
+    opacity: 1;
+    float: left;
+    margin: 20px 20px;
+}
+
+body,html {
+  background-color: lightgrey;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: 100% 100%;
+  opacity: 1;
+  margin: 0px 70px 0px 20px;
+}
+
+.lists {
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+  float: right;
+  justify-content: space-evenly;
+  box-sizing: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  line-height: 0.2;
+}
+
+p {
+  text-align: center;
+  font-family:'Mrs Saint Delafield', cursive;
+
+
+spacing {
+  font-size: 2em;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.spacing1 {
+  font-size: 3em;
+  letter-spacing: 20px;
+  text-indent: 50px;
+}
