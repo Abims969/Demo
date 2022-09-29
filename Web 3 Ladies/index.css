@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+/* body {
+    display: flex;
+    place-items: center;
+} */
+
+.flex {
+    display: flex;
+    column-gap: 20px;
+}
+
+.grid {
+    display: grid;
+    place-items: center;
+    row-gap: 50px;
+}
+
+.grid-1 {
+    background-color: aqua;
+    height: 90%;
+    width: 300px;
+    row-gap: 20px;
+}
+
+body {
+    background-color: navy;
+    color: white;
+}
+
+h1 {
+    height: 400px;
+    padding: 5px 10px 5px 10px;
+    border: 3px dashed red;
+    width: 300px;
+}
