@@ -1,0 +1,55 @@
+/*Selector {
+	property: value;
+}*/
+
+
+body {
+	background-image: url(https://images.unsplash.com/photo-1645026648339-a8bb1a24c9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+	background-size: 50%
+	
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	border: 5px solid rgba(165, 42, 42, 0.5);	
+	cursor: pointer;
+}
+
+p {
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Square Peg', cursive;
+}
+
+img{
+	float: left;
+	width: 180px;
+	height: 100px;
+}
+
+footer{
+	clear: both;
+	text align: center;
+}
+
+li {
+	color: whitesmoke;
+}
+
+
+p {
+	color: pink;
+}
+
+p {
+	color: black;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	text-align: right;
+	font-weight: bold;
+}
+
