@@ -1,0 +1,30 @@
+/*html,body {
+    background-color: rgb(228, 214, 221);
+}*/
+
+.container {
+    background-color:navy;
+    margin: 0px 0px;
+    line-height: 0.9;
+    height: 200%;
+    width: 100%;
+    color: antiquewhite;
+}
+
+img {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width:150%
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: navy;
+    color: white;
+    text-align: center;
+  
+  }
