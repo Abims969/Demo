@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    animation-name: container;
+    animation-duration: 10s;
+}
+
+@keyframes container {
+    from {background-color: cyan;}
+    to {background-color: navajowhite}
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 3em;
+    border-bottom: 2px solid pink;
+    border-right: 2px solid pink;
+    width: 400px;
+    text-align: center;
+    box-shadow: 4px 4px 5px #888888;
+    Margin: top 10px;
+}
+
+img {
+    width:450px;
+    height: 300px;
+    margin: 10px;
+    transition: all 1s;
+}
+
+img:hover{
+    transform:scale(1.1); 
+}
